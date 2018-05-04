@@ -1,7 +1,7 @@
 EE769: INTRODUCTION TO MACHINE LEARNING: COURSE PROJECT SUBMISSION   
 (Amrit Kumar Muduli, Mahera Mulla, P T Cherishma)
 
-The automated recognition of handwritten alphabets and digits is a largely studied problem which connects the ﬁelds of Computer Vision and Machine Learning and has many applications in real life. The aim of this project is to implement a handwritten digit and alphabet recognition system using convolutional neural networks (CNNs). The CNN proposed here is experimented on the well-known MNIST data set for digit recognition and UCI Machine Learning Repository for alphabets.
+The automated recognition of handwritten alphabets and digits is of paramount importance in the present day world. This problem which connects the ﬁelds of Computer Vision and Machine Learning has many applications in real life. The aim of this project is to implement a handwritten digit and alphabet recognition system using convolutional neural networks (CNNs). 
 
 This submission contains the following files. 
 
